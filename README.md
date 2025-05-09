@@ -3,7 +3,7 @@ Roadmap and useful resources to master SYSTEM DESIGN.
 
 # 🛠️ System Design Mastery Roadmap
 
-This repository follows the [roadmap.sh System Design](https://roadmap.sh/system-design) structure.
+This repository follows the [roadmap.sh - System Design](https://roadmap.sh/system-design) structure.
 
 ## 🧠 1. Prerequisites (Basics)
 
